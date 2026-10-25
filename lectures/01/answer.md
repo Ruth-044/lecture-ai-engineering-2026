@@ -1,14 +1,12 @@
-# 第1回 解答
+# Day 1 homework - basic level
 
-## 演習
+## what I did
 
-- 講座に固有の質問（宿題の3レベル）へのモデルの回答（要約でよい）：
-- 用語集の正しい意味と比べて気づいたこと：
-- 表示できたトークン数（入力 / 出力）：
+- I ran the same question multiple times using the model to see how it handles general knowledge vs course specific knowledge.
 
-## 宿題
+## Results
 
-- 取り組んだレベル：基礎 / 実装 / 発展
-- やったこと：
-- 結果：
-- 気づき・疑問：
+- general term - what's LoRA: the model gave a correct technical definition
+- in course specific terms: the model said it didn't have access to specific course.
+
+- model used：gemini-3.5-flash-lites
