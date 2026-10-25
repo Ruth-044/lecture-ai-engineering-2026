@@ -9,4 +9,4 @@
 - general term - what's LoRA: the model gave a correct technical definition
 - in course specific terms: the model said it didn't have access to specific course.
 
-- model used：gemini-3.5-flash-lite
+- model used：gemini-3.5-flash-lites
